@@ -1,0 +1,31 @@
+segment_sources:
+  ICC2456B0:
+    type: origin_type
+    relation: translation
+    language: en
+  I49F957FF:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  1459da03d3744e67957e40d7146a6bec:
+    ICC2456B0: 9bf0c01b96a143ea90505f0ca61c7c77
+    I49F957FF: e55d4241e9524e708e30bb680766fe3d
+  4348acdf57ff4679968e8ffd28f06f04:
+    ICC2456B0: 006a810f0b1d419fb8aba1ec9b173969
+    I49F957FF: 5882f50b06264fa598b0c485b60ca509
+  d9e1a77d70ab4f3299e9255edd5a58d5:
+    ICC2456B0: b052bfe851cd44bea93630891dc26327
+    I49F957FF: 34ea856f437143d2a9bde730310637d7
+  3d64a0674f8d44c3a1f4c98eb530d058:
+    ICC2456B0: 3ed40842f3cf4175ba96113e65ea27ea
+    I49F957FF: b65e7e9684f74f18841d3da181427f7e
+  0c8add4259b640f089bceccc5f8d2c56:
+    ICC2456B0: bd25d1392ab14784a67811e8f6d416e1
+    I49F957FF: 6b0d14c2c39a4d12ba2dc89172f354ee
+  dcd789bdce8f4924ad6a26a9ea0c5112:
+    ICC2456B0: de7bc89a32214d6c9968bdc944e9e73d
+    I49F957FF: 4ebf39e928f84f28b60ba20e2073373b
+  c7469499bc864d23b9a476d865966e91:
+    ICC2456B0: cfe6af943dfd4035ac7f6153f7d502f4
+    I49F957FF: 97aa0ec9b59845ae819e311bc6188d6e

@@ -1,0 +1,19 @@
+segment_sources:
+  ICC2456B0:
+    type: origin_type
+    relation: translation
+    language: en
+  I49F957FF:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  e7609a376ef649ebab2d46bdf59b3c43:
+    ICC2456B0: 4e23505656f2449782d9e3b7c453303c
+    I49F957FF: 44d5d4eb28cb4ebfa95bcb1fc4f318d5
+  1ab538faa0fc4c23ad6021cc0def8f70:
+    ICC2456B0: 0df348fde3744ae4bf27dba9e252ebc6
+    I49F957FF: a7c50a66d4ed4287bbc8337977b622c2
+  972373e9aa394cb1a3238ec9a2d2c2a8:
+    ICC2456B0: 38c66e10c0d64b5383b5a3dbc94fa7c4
+    I49F957FF: 3d2bc2708aed4f85bc265eff5d1fb7d2
